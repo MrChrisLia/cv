@@ -1,0 +1,26 @@
+body {
+    background-color: powderblue;
+}
+
+hr {
+    border-style: none;
+    width: 5%;
+    border-top: 5px dotted grey;
+}
+
+h1 {
+    color: #275454;
+}
+
+h3 {
+    color: #275454;
+}
+
+#profilePic {
+    border-radius: 50%;
+    width: 200px;
+}
+
+#jobTitle {
+    font-size: 150%;
+}
